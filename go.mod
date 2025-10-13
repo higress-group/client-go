@@ -2,6 +2,8 @@ module istio.io/client-go
 
 go 1.23.0
 
+replace istio.io/api => github.com/higress-group/api v0.0.0-20251013075830-5b9a222e72f3
+
 require (
 	istio.io/api v1.27.1-0.20250820125923-f5a5d3a605a9
 	k8s.io/apimachinery v0.32.1
