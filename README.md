@@ -1,6 +1,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/istio/client-go)](https://goreportcard.com/report/github.com/istio/client-go)
 [![GolangCI](https://golangci.com/badges/github.com/istio/client-go.svg)](https://golangci.com/r/github.com/istio/client-go)
 [![GoDoc](https://godoc.org/istio.io/client-go?status.svg)](https://godoc.org/istio.io/client-go)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhigress-group%2Fclient-go.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhigress-group%2Fclient-go?ref=badge_shield)
 
 # Golang Client Library for Istio APIs
 
@@ -21,3 +22,7 @@ go get istio.io/client-go@release-1.4
 ```
 
 The version number matches with official Istio versions for releases 1.4+.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhigress-group%2Fclient-go.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhigress-group%2Fclient-go?ref=badge_large)
